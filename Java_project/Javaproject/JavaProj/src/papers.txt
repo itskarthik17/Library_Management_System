@@ -1,0 +1,4 @@
+About me,Soemone,2023-12-20
+AI,karthik,2023-12-20
+Java,karthik,2023-12-21
+analysis,karthik,2023-12-21

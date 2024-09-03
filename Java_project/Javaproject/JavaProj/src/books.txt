@@ -1,0 +1,21 @@
+To Kill a Mockingbird,Harper Lee,9780061148510,3
+1984,George Orwell,9780061148511,5
+The Great Gatsby,F. Scott Fitzgerald,9780061148512,6
+Pride and Prejudice,Jane Austen,9780061148513,1
+The Hobbit,J.R.R. Tolkien,9780061148515,7
+The Lord of the Rings,J.R.R. Tolkien,9780061148516,9
+Brave New World,Aldous Huxley,9780061148517,0
+Animal Farm,George Orwell,9780061148518,0
+Jane Eyre,Charlotte Brontë,9780061148519,8
+Wuthering Heights,Emily Brontë,9780061148520,5
+To the Lighthouse,Virginia Woolf,9780061148521,3
+Moby-Dick,Herman Melville,9780061148522,4
+The Odyssey,Homer,9780061148523,0
+One Hundred Years of Solitude,Gabriel García Márquez,9780061148525,8
+The Alchemist,Paulo Coelho,9780061148527,5
+The Picture of Dorian Gray,Oscar Wilde,9780061148528,4
+Beloved,Toni Morrison,9780061148529,3
+Lord of the Flies,William Golding,9780061148530,1
+Crime and Punishment,Fyodor Dostoevsky,9780061148531,4
+Wings of Fire,APJ Abdul Kalam,4387438947384,1
+Harry Potter,JK Rowling,656562323,5
